@@ -28,7 +28,31 @@ Google Cloud 为您提供了三种与服务和资源交互的基本方式
 * gcloud 命令行界面 (Cloud SDK工具包, Cloud Shell)
 * 客户端库
 
+<br/><br/><br/>
+
 # 地理位置和区域
 ## 区域和地区
 * 地区资源，单个地区内运作
 * 区域资源，多个地区以冗余方式部署的资源
+
+## 全球均可运行的服务
+
+<br/><br/><br/>
+
+# 开发者工具
+## Anthos 开发者沙盒
+* [Google Cloud 开发者工具](https://cloud.google.com/products/tools)
+
+<br/><br/><br/>
+
+# 托管网站
+本文介绍如何在 Google Cloud 上托管网站。
+
+## 选择方案
+
+## 设置域名服务
+* [谷歌域名](https://domains.google/)
+
+## 托管静态网站
+### 使用 Cloud Storage 托管静态网站
+创建一个 Cloud Storage 存储分区、上传内容，并对新网站进行测试。
