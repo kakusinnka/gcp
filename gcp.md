@@ -46,7 +46,8 @@ Google Cloud 为您提供了三种与服务和资源交互的基本方式
 <br/><br/><br/>
 
 # 托管网站
-本文介绍如何在 Google Cloud 上托管网站。
+本文介绍如何在 Google Cloud 上托管网站。  
+![image](https://user-images.githubusercontent.com/57317985/135758082-3b9bb74e-bcef-4dcb-9bbb-24d7c7a6095d.png)
 
 ## 选择方案
 
