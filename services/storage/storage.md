@@ -9,7 +9,8 @@
 * 后续步骤
 
 ## 产品概述
-* [Cloud Storage](https://cloud.google.com/storage)
+* [Cloud Storage](https://cloud.google.com/storage)  
+![image](https://user-images.githubusercontent.com/57317985/135758034-6d6e8c23-6231-4ecf-b13f-3abf35da46de.png)
 
 <br/><br/>
 
