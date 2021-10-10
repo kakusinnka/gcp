@@ -14,3 +14,4 @@
 * [谷歌域名](https://domains.google/)
 * [Cloud DNS](https://cloud.google.com/dns)
 * [Google Cloud Training](https://google.qwiklabs.com/)
+* [身份验证](https://cloud.google.com/docs/authentication#user_accounts)
