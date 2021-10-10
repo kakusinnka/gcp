@@ -57,3 +57,4 @@ Google Cloud 为您提供了三种与服务和资源交互的基本方式
 ## 托管静态网站
 ### 使用 Cloud Storage 托管静态网站
 创建一个 Cloud Storage 存储分区、上传内容，并对新网站进行测试。
+test test
